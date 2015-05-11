@@ -1,0 +1,62 @@
+[
+  {
+    "name": "John",
+    "avatar": "https://pbs.twimg.com/profile_images/476666803700002816/CisoZPyJ_400x400.jpeg",
+    "city": "Buenos Aires",
+    "tz": "America/Buenos_Aires"
+  },
+  {
+    "name": "Janet",
+    "avatar": "https://pbs.twimg.com/profile_images/1765827515/image1326957468_400x400.png",
+    "city": "New York",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Alvin",
+    "avatar": "https://pbs.twimg.com/profile_images/549940615195017216/lJrMna19.jpeg",
+    "city": "Boston",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Jon",
+    "avatar": "https://pbs.twimg.com/profile_images/515198790379110400/zEwjWTi1.png",
+    "city": "Toronto",
+    "tz": "America/Toronto"
+  },
+  {
+    "name": "Henry",
+    "avatar": "https://pbs.twimg.com/profile_images/527929055002099712/cUCr-Hg0.jpeg",
+    "city": "Austin",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Stephen",
+    "avatar": "https://pbs.twimg.com/profile_images/3638552862/289a6135d6da226bb161fc87f0232852.jpeg",
+    "city": "Glasgow",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Livia",
+    "avatar": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-01-12/3390077392_21d5e59cec92b31ceb5f_192.jpg",
+    "city": "Ehningen",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Colin",
+    "avatar": "https://pbs.twimg.com/profile_images/481077209495384067/2wWIsNGQ.jpeg",
+    "city": "Portland",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Diana",
+    "avatar": "https://pbs.twimg.com/profile_images/477471810636632064/MM5OZGI0.jpeg",
+    "city": "Portland",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Rachel",
+    "avatar": "https://pbs.twimg.com/profile_images/494870317181845506/-mo1Nh-t.jpeg",
+    "city": "Portland",
+    "tz": "America/Los_Angeles"
+  }
+]
